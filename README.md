@@ -6,3 +6,4 @@ hallo
 das leben ist ein spiel
 hahahahahahahahahahahahahahahahahahahah
 TFT ist ein Müll game ngl
+Paolo willst du Valorant?
