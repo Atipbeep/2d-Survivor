@@ -14,3 +14,7 @@ config/name="2d Surivior Fake by Atip"
 run/main_scene="res://beginning.tscn"
 config/features=PackedStringArray("4.1", "Forward Plus")
 config/icon="res://icon.svg"
+
+[dotnet]
+
+project/assembly_name="2d Surivior Fake by Atip"
