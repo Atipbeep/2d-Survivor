@@ -4,3 +4,5 @@ Atip ist ein scammer
 nick
 hallo 
 das leben ist ein spiel
+hahahahahahahahahahahahahahahahahahahah
+TFT ist ein Müll game ngl
